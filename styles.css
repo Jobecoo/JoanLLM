@@ -49,10 +49,3 @@ h1 {
   border-top: 1px solid #000;
   margin-top: 20px;
 }
-#footer a {
-  color: #000;
-  text-decoration: none;
-}
-#footer a:hover{
-  text-decoration: underline;
-}
