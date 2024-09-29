@@ -39,7 +39,7 @@ h1 {
 .book {
   border-right: 5px solid red;
   background: url('images/llibres.png') right center no-repeat;
-  padding-left: 30px;
+  padding-left: 20px;
 }
 #article {
   border-right: 5px solid green;
