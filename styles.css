@@ -44,11 +44,6 @@ h1 {
 #article {
   border-right: 5px solid green;
 }
-#footer {
-  font-size: 0.5em;
-  border-top: 1px solid #000;
-  margin-top: 20px;
-}
 #footer a {
   color: #000;
   text-decoration: none;
