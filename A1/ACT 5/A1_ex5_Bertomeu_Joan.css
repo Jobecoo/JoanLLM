@@ -1,0 +1,39 @@
+body{
+  background: #fff url('images/gradbg.jpg') top left repeat-x;
+  color: #000;
+  margin: 0;
+  padding:0;
+  border: 0;
+  font-family: Verdana, Arial, sans-serif; font-size: 1em;
+}
+div {
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3em;
+  margin-bottom: 30px;
+  background: url('images/headbg.png') top left repeat;
+  padding: 10px 0;
+  color: red
+}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1em;
+  margin-bottom: 30px;
+  padding: 10px 0;
+  color: orange
+}
+h3 {
+  font-size: 01em;
+  color: grey;
+  font-style: italic
+}
+
+#footer {
+  font-size: 0;
+}
