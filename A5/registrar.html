@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrar</title>
+    <style type="text/css">
+        @import url("estils.css");
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="navbar">
+
+            <img src="img/lol-logo.png" alt="Logo" class="navbar-logo">
+            <a id="div" href="registrar.html">Resgistra't</a>
+            <a id="div" href="pj.html">Personatges</a>
+            <div id="timer">Tiempo en la página: 0 segundos</div>
+        </div>
+    </nav>
+    <div class="form-container">
+        <h2>Registrar</h2>
+        <form id="registerForm">
+            <label for="password1">Contrasenya:</label>
+            <input type="password" id="password1" name="password1" required>
+            <label for="password2">Repeteix la contrasenya:</label>
+            <input type="password" id="password2" name="password2" required>
+            <button type="button" onclick="validatePassword()">Registrar</button>
+        </form>
+    </div>
+    <script>
+        function validatePassword() {
+            const password1 = document.getElementById('password1').value;
+            const password2 = document.getElementById('password2').value;
+
+            if (password1.length < 8) {
+                alert('La contrasenya ha de tenir almenys 8 caràcters.');
+                return;
+            }
+
+            if (password1 !== password2) {
+                alert('Les contrasenyes no coincideixen.');
+                return;
+            }
+
+            alert('Contrasenya vàlida!');
+        }
+    </script>
+</body>
+</html>
