@@ -3,7 +3,7 @@ let startTime = Date.now();
 function updateTimer() {
     let currentTime = Date.now();
     let elapsedTime = Math.floor((currentTime - startTime) / 1000);
-    document.getElementById('timer').textContent = `Tiempo en la página: ${elapsedTime} segundos`;
+    document.getElementById('timer').textContent = `Temps: ${elapsedTime} segons`;
 }
 
 setInterval(updateTimer, 1000);
