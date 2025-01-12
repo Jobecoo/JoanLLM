@@ -1,0 +1,76 @@
+<Pressupost>
+    <Client>
+        <Nom>Desconegut</Nom>
+        <Comentari>
+            Hola, necessito que hem configureu dos pressupostos d'un ordinador d'acord als següents components: 
+            una placa base, un processador, dos sticks de memòria RAM, un disc dur, una targeta gràfica i una targeta de so.
+            Els altres components els puc reutilitzar de l'ordinador que tinc actualment. Gràcies.
+        </Comentari>
+    </Client>
+    <Opcions>
+        <Opcio id="1">
+            <Component>
+                <Nom>Placa Base</Nom>
+                <Marca>ASUS PRIME B550-PLUS</Marca>
+                <Preu>129.90</Preu>
+            </Component>
+            <Component>
+                <Nom>Processador</Nom>
+                <Marca>AMD Ryzen 5 5600X</Marca>
+                <Preu>219.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Memòria RAM</Nom>
+                <Marca>Corsair Vengeance LPX 16GB (2x8GB) DDR4</Marca>
+                <Preu>89.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Disc Dur</Nom>
+                <Marca>Samsung 970 EVO Plus 1TB NVMe</Marca>
+                <Preu>124.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Targeta Gràfica</Nom>
+                <Marca>MSI GeForce RTX 3060</Marca>
+                <Preu>379.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Targeta de So</Nom>
+                <Marca>Creative Sound Blaster Z SE</Marca>
+                <Preu>89.99</Preu>
+            </Component>
+        </Opcio>
+        <Opcio id="2">
+            <Component>
+                <Nom>Placa Base</Nom>
+                <Marca>Gigabyte B560M DS3H</Marca>
+                <Preu>99.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Processador</Nom>
+                <Marca>Intel Core i5-12400</Marca>
+                <Preu>199.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Memòria RAM</Nom>
+                <Marca>Kingston Fury Beast 16GB (2x8GB) DDR4</Marca>
+                <Preu>79.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Disc Dur</Nom>
+                <Marca>WD Blue SN570 1TB NVMe</Marca>
+                <Preu>89.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Targeta Gràfica</Nom>
+                <Marca>ASUS Dual Radeon RX 6700 XT</Marca>
+                <Preu>449.99</Preu>
+            </Component>
+            <Component>
+                <Nom>Targeta de So</Nom>
+                <Marca>ASUS Xonar AE</Marca>
+                <Preu>74.99</Preu>
+            </Component>
+        </Opcio>
+    </Opcions>
+</Pressupost>
