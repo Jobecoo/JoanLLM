@@ -1,0 +1,98 @@
+{
+    "Receptes": [
+        {
+            "Nom": "Pastís de xocolata",
+            "Ingredients": [
+                "6 rovells d'ou",
+                "6 clares",
+                "150 g de sucre",
+                "200 g de xocolata negra de cobertura",
+                "50 g de mantega",
+                "Farina",
+                "Nata muntada",
+                "Cacau en pols"
+            ],
+            "Preparacio": [
+                "Per començar, barregeu els rovells d'ou amb el sucre en un bol.",
+                "Mentrestant, foneu la cobertura de xocolata al bany maria. Quan la xocolata s'hagi desfet, afegiu-hi la mantega i remeneu-ho.",
+                "Tot seguit, munteu les clares que haureu tingut a la nevera i afegiu-hi un pessic de sal.",
+                "A continuació, barregeu la xocolata, els rovells i el sucre i les clares muntades. Remeneu-ho i poseu-ho en un motllo per al forn.",
+                "Deixeu-ho coure al forn a 180 graus durant 30 minuts. Després, deixeu refredar el pastís, desmotlleu-lo i emplateu-lo.",
+                "Ja per acabar, decoreu-lo amb nata muntada i cacau en pols."
+            ],
+            "Notes": [
+                "Recepta del programa de TV3 Cuines, del restaurant Les Petxines."
+            ],
+            "Autor": "Bàrbara Casanovas i Adrià Ruscalleda",
+            "Etiquetes": [
+                "Postre",
+                "Dolços",
+                "Forn",
+                "Aniversari",
+                "Fàcil",
+                "Econòmic"
+            ]
+        },
+        {
+            "Nom": "Volcà de xocolata",
+            "Ingredients": [
+                "4 ous",
+                "4 rovells",
+                "80 g de sucre",
+                "220 g de mantega",
+                "200 g de xocolata",
+                "60 g de farina"
+            ],
+            "Preparacio": [
+                "Foneu al bany maria la xocolata i la mantega. Un cop fora del foc, munteu les clares i afegiu-hi el sucre, quan comencin a agafar cos.",
+                "Barregeu la meitat de les clares muntades amb la xocolata. Incorporeu-hi la farina i la resta de les clares.",
+                "Pinteu motlles individuals amb mantega i farina, farciu-los amb la pasta fins a la meitat i disposeu al centre un dau de xocolata.",
+                "Aneu a coure'ls una mica més dels motlles per a magdalenes (a 180 graus).",
+                "Deixeu-los refredar una mica (amb el selector de baix) durant uns 10 minuts aproximadament.",
+                "A l'hora de servir, empolsimeu de sucre llustre i acompanyeu d'una saïseta de gelat."
+            ],
+            "Autor": "Anna",
+            "Etiquetes": [
+                "Postre",
+                "Dolços",
+                "Fàcil",
+                "Econòmic",
+                "Catalana"
+            ],
+            "Altres": {
+                "PreparacioTemps": "30 minuts",
+                "Cost": "15 €",
+                "Calories": "220 calories"
+            }
+        },
+        {
+            "Nom": "Pastís de formatge",
+            "Ingredients": [
+                "2 terrines de formatge",
+                "3 ous",
+                "3 iogurts naturals",
+                "3 cullerades (grans) de farina",
+                "10 o 12 cullerades (petites) de sucre",
+                "Un parell de galetes Maria o Chiquilin"
+            ],
+            "Preparacio": [
+                "El primer que hem de fer és escalfar el forn a 200 graus",
+                "Buidem les terrines de Philadelphia en un bol i remenem bé el formatge",
+                "Agafem els 3 ous, els afegim i els remenem amb el formatge.",
+                "Ara afegim els 3 iogurts naturals a la barreja i tornem a remenar.",
+                "Quan tinguem una pasta homogènia, hi posem la farina i el sucre i ho remenem tot fins que no queden grumolls.",
+                "Preparem el motlle unant-lo bñe amb mantega. Triturem les galetes i les repartim per tota la base del motlle.",
+                "Seguidament, hi evoquem la barreja que tenim ja preparada.",
+                "Baixem el forn a 170º i hi col·loquem el pastís",
+            "Esperem uns 20 o 30 minuts. Com que la cocció depèn de la potència del forn, la millor manera per saber si el pastís està fet és punxar-lo pel mig amb algun instrument."
+        ],
+        "Autor": "Eulalia",
+        "Notes": [
+            "Una delicia pels mes formatgers!"
+        ],
+        "Etiquetes": [
+            "Postre"
+        ]
+    }
+]
+}

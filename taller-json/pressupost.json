@@ -1,0 +1,80 @@
+{
+    "Pressupost": {
+        "Client": {
+            "Nom": "Desconegut",
+            "Comentari": "Hola, necessito que hem configureu dos pressupostos d'un ordinador d'acord als següents components: una placa base, un processador, dos sticks de memòria RAM, un disc dur, una targeta gràfica i una targeta de so. Els altres components els puc reutilitzar de l'ordinador que tinc actualment. Gràcies."
+        },
+        "Opcions": [
+            {
+                "id": "1",
+                "Components": [
+                    {
+                        "Nom": "Placa Base",
+                        "Marca": "ASUS PRIME B550-PLUS",
+                        "Preu": 129.90
+                    },
+                    {
+                        "Nom": "Processador",
+                        "Marca": "AMD Ryzen 5 5600X",
+                        "Preu": 219.99
+                    },
+                    {
+                        "Nom": "Memòria RAM",
+                        "Marca": "Corsair Vengeance LPX 16GB (2x8GB) DDR4",
+                        "Preu": 89.99
+                    },
+                    {
+                        "Nom": "Disc Dur",
+                        "Marca": "Samsung 970 EVO Plus 1TB NVMe",
+                        "Preu": 124.99
+                    },
+                    {
+                        "Nom": "Targeta Gràfica",
+                        "Marca": "MSI GeForce RTX 3060",
+                        "Preu": 379.99
+                    },
+                    {
+                        "Nom": "Targeta de So",
+                        "Marca": "Creative Sound Blaster Z SE",
+                        "Preu": 89.99
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "Components": [
+                    {
+                        "Nom": "Placa Base",
+                        "Marca": "Gigabyte B560M DS3H",
+                        "Preu": 99.99
+                    },
+                    {
+                        "Nom": "Processador",
+                        "Marca": "Intel Core i5-12400",
+                        "Preu": 199.99
+                    },
+                    {
+                        "Nom": "Memòria RAM",
+                        "Marca": "Kingston Fury Beast 16GB (2x8GB) DDR4",
+                        "Preu": 79.99
+                    },
+                    {
+                        "Nom": "Disc Dur",
+                        "Marca": "WD Blue SN570 1TB NVMe",
+                        "Preu": 89.99
+                    },
+                    {
+                        "Nom": "Targeta Gràfica",
+                        "Marca": "ASUS Dual Radeon RX 6700 XT",
+                        "Preu": 449.99
+                    },
+                    {
+                        "Nom": "Targeta de So",
+                        "Marca": "ASUS Xonar AE",
+                        "Preu": 74.99
+                    }
+                ]
+            }
+        ]
+    }
+}
